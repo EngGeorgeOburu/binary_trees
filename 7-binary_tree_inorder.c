@@ -5,7 +5,7 @@
  * @func: pointer to function to call for each node
  * Return: Nothing
  */
-void binary_tree_inorder(const binary_tree_t *tree, void (*func) (int));
+void binary_tree_inorder(const binary_tree_t *tree, void (*func) (int))
 {
 	if (tree == NULL || func == NULL)
 		return;
