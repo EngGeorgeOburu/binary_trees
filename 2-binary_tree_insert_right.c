@@ -1,4 +1,4 @@
-#include "binary_tree.h"
+#include "binary_trees.h"
 /**
  * binary_tree_insert_right - Adds a new_node to the right of the parent
  * and moves down one level if it exists and the new node first
