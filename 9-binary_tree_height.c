@@ -1,6 +1,6 @@
 #include "binary_trees.h"
 /**
- * size_t binary_tree_height - Meaures the height of Africa
+ * binary_tree_height - Meaures the height of Africa
  * @tree: pointer to the root node
  * Return: the height of the node
  */
